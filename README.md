@@ -10,8 +10,10 @@ Atualmente aprendo Front-End e investo cada segundo para transformar meu céu em
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt= "css-logo"/>
 <br>
 
+[![Patricia Nazer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriciaNazer)](https://github.com/anuraghazra/github-readme-stats)
 
-![Patricia Nazer's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriciaNazer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaNazer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
